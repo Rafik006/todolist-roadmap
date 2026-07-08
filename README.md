@@ -38,8 +38,8 @@ work, like a save-point in a video game, so you never lose progress.
 2. **Clone your fork** — this downloads your copy onto your computer.
    Open a terminal and run (replace `YourUserName`):
    ```sh
-   git clone https://github.com/YourUserName/todolist-html-css-js.git
-   cd todolist-html-css-js
+   git clone https://github.com/YourUserName/todolist-roadmap.git
+   cd todolist-roadmap
    ```
 3. **Open the folder in VS Code** (or any code editor).
 4. (Optional, but nice) Install the **"Live Server"** extension in VS
